@@ -1,0 +1,12 @@
+li:nth-child(3) a{
+    color: red;
+}
+
+li:nth-child(2) a{
+    color: red;
+}
+
+p {
+    font-size: 24px;
+}
+
